@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "c2a05615bb80553705cf4581bc25dd1f"
+build_time: [528855218, 313725000]
+inputs:
+  "/Users/lqf510/Desktop/codePath/Carousel/Carousel/AppDelegate.swift": [528321477, 0]
+  "/Users/lqf510/Desktop/codePath/Carousel/WelcomeViewController.swift": [528800045, 0]
+  "/Users/lqf510/Desktop/codePath/Carousel/Carousel/SettingsViewController.swift": [528844363, 0]
+  "/Users/lqf510/Desktop/codePath/Carousel/Carousel/IntroViewController.swift": [528855060, 0]
+  "/Users/lqf510/Desktop/codePath/Carousel/Carousel/ConversationsViewController.swift": [528855060, 0]
+  "/Users/lqf510/Desktop/codePath/Carousel/Carousel/SignInViewController.swift": [528855218, 0]
+  "/Users/lqf510/Desktop/codePath/Carousel/Carousel/TimelineViewController.swift": [528842983, 0]
