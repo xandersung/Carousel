@@ -60,8 +60,8 @@ Time spent: `7`
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. Best implementation of array of animations.
+2. How page view controllers work vs a large scroll view. 
 
 ### Video Walkthrough 
 
